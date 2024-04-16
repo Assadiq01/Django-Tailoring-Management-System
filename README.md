@@ -1,0 +1,1 @@
+"# Django-Tailoring-Management-System" 
